@@ -1,4 +1,5 @@
-Sistemas Embarcados - Embarcatech - Raspberry Pi Pico W com BitDogLab
+Sistemas Embarcados - Embarcatech - Raspberry Pi Pico W com BitDogLab.
+
 Este repositório contém o projeto final do curso, onde exploramos o uso do microcontrolador Raspberry Pi Pico W junto à placa BitDogLab. A linguagem utilizada foi C, com simulações realizadas na plataforma Wokwi.
 
 # 1. Projeto PicoMedAlert
