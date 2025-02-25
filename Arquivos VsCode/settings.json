@@ -38,5 +38,22 @@
     "raspberry-pi-pico.ninjaPath": "${HOME}/.pico-sdk/ninja/v1.12.1/ninja",
     "files.associations": {
         "dma.h": "c"
+        "*.cs": "csharp",
+        "stdlib.h": "c",
+        "sync.h": "c",
+        "my_wifi.h": "c",
+        "my_gpio.h": "c",
+        "global.h": "c",
+        "stdio.h": "c",
+        "my_modbus_master.h": "c",
+        "cstdlib": "c",
+        "stdbool.h": "c",
+        "stdatomic.h": "c",
+        "my_adc.h": "c",
+        "adc.h": "c",
+        "dma.h": "c",
+        "my_i2c.h": "c",
+        "my_uart.h": "c",
+        "my_std_debug.h": "c"
     }
 }
